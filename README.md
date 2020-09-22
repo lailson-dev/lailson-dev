@@ -37,5 +37,3 @@
   </a>
 </p>
 </h1>
-
-<h3 align="center"><strong> me dá uma oportunidade ai, bicho. nunca te pedi nada.  </strong> </h3>
