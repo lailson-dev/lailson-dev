@@ -32,7 +32,7 @@
     <img src="https://img.shields.io/badge/linkedin-lailson-blue">
   </a>
   
-  <a href="https://www.instagram.com/lailson-dev/">
+  <a href="https://www.instagram.com/lailsondev/">
     <img src="https://img.shields.io/badge/instagram-lailson-orange">
   </a>
 </p>
